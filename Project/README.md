@@ -9,7 +9,7 @@
 - Percent of Adult Smokers by County (2011- 2018).xlsx	
 - __TEDSCountyLevel2008-2017_2.zip
 
-## Jupiter Notebook folder
+## Jupyter Notebook folder
 - IndianaSUD.html	
 - IndianaSUD.ipynb	
 - IndianaSUD.pdf	
